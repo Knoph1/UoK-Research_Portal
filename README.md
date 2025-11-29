@@ -13,7 +13,7 @@
 ---
 
 ## Contributors   
-> *[Knoph O. Ayieko](https://github.com/Knoph1)* · [Website](https://www.knoph.dev/)*  
+> *[Knoph O. Ayieko](https://github.com/Knoph1)* · [Website](https://www.knoph.dev/)  
 > *[Felix K.](https://github.com/FelixKiprotich350)*
 
 ## Code of Conduct
