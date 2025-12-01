@@ -14,7 +14,7 @@
 
 ## Contributors   
 > *[Knoph Ayieko](https://github.com/Knoph1)* · [Website](https://www.knoph.dev/)  
-> *[Felix Kiprotich](https://github.com/FelixKiprotich350)*
+> *[Felix Kiprotich](https://github.com/FelixKiprotich350)*  
 > *[Mary Muraguri](https://github.com/marymuraguri)*
 
 ## Security Vulnerabilities
